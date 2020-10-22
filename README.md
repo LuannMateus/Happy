@@ -2,7 +2,9 @@
 <img src="https://github.com/guilhermecapitao/nlw3-discovery-happy/raw/master/.github/logo.svg">
 </p>
 
-<a href="#tec">Tecnologias</a> | <a href="#projec"> Projeto </a> | <a href="#layout"> Layout</a>
+<p align="center">
+  <a href="#tec">🚀 Tecnologias</a> | <a href="#project">💻 Projeto</a> | <a href="#layout">🎀 Layout</a>
+ </p>
 
 <h2 align="center"> Next Level Week 3 </h2>
 <p align="center">Leve felicidade para o mundo.</p> 
